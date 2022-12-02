@@ -1,7 +1,6 @@
 
 
 def main():
-    a = 1
     print("hello")
 
 
